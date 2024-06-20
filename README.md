@@ -16,13 +16,13 @@
 ##
     
 <div align="center">
-    <a href="https://www.instagram.com/edward_a.gall" target="_blank">
+    <a href="https://www.instagram.com/edward_a.gall" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
-    <a href="https://discordapp.com/users/529023275725225986" target="_blank">
+    <a href="https://discordapp.com/users/529023275725225986" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
     </a> 
-    <a href="https://steamcommunity.com/id/Edward_AGall" target="_blank">
+    <a href="https://steamcommunity.com/id/Edward_AGall" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
     </a>
 </div>
